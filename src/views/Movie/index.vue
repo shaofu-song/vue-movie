@@ -20,6 +20,7 @@
       </keep-alive>
     </div>
     <TarBar />
+    <router-view name="detail" />
   </div>
 </template>
 
